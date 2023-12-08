@@ -206,7 +206,7 @@ int main()
 
 	do{
 		system("cls");
-		gotoxy(10,4); cout<<" Game an cap boi Hung Tran ";
+		gotoxy(10,4); cout<<" Stolen by Hung Tran ";
 		gotoxy(10,5); cout<<" -------------------------- ";
 		gotoxy(10,6); cout<<" |        Car Game        | ";
 		gotoxy(10,7); cout<<" --------------------------";
